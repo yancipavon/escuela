@@ -11818,7 +11818,9 @@ width: 100%;
 
 
 .section {
-  padding: 40px 120px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: auto;
 }
 .section h2 {
   font-size: 2rem;
