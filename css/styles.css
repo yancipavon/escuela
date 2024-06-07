@@ -11822,6 +11822,7 @@ width: 100%;
 
 .section {
   padding-top: 40px;
+  padding-bottom: 40px;
   width: 100%; /* Ajusta el ancho al 100% del contenedor */
   height: auto; /* Mantiene la proporción de la imagen */
 }
